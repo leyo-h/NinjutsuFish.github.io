@@ -1,2 +1,1 @@
-# NinjutsuFish.github.io
-sadsssadarefrefefwwededde
+Readme for github page
